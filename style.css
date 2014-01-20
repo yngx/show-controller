@@ -1,0 +1,22 @@
+.container {
+	padding-left: 25px;
+	padding-right: 100px;
+	width: 800px;
+}
+
+.trigger {
+	background-color: rgba(196, 188, 188, .1);
+	border-style: 2px solid;
+	height: 150x;
+}
+
+.sequence {
+	background-color: rgba(255, 82, 88, .2);
+	margin-left: 115px;
+	margin-top: -20px;
+	width: 550px;
+}
+
+.action-info {
+	border-radius: 5px;
+}
